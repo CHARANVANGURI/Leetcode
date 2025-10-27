@@ -13,6 +13,7 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/CHARANVANGURI/Leetcode/tree/master/0217-contains-duplicate) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/CHARANVANGURI/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/CHARANVANGURI/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Sorting
 |  |
@@ -29,6 +30,7 @@
 ## String
 |  |
 | ------- |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/CHARANVANGURI/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/CHARANVANGURI/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Bit Manipulation
 |  |
@@ -38,4 +40,8 @@
 |  |
 | ------- |
 | [1786-count-the-number-of-consistent-strings](https://github.com/CHARANVANGURI/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+## Sliding Window
+|  |
+| ------- |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/CHARANVANGURI/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 <!---LeetCode Topics End-->
