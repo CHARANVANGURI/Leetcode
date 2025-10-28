@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/CHARANVANGURI/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/CHARANVANGURI/Leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/CHARANVANGURI/Leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/CHARANVANGURI/Leetcode/tree/master/0485-max-consecutive-ones) |
@@ -18,6 +19,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/CHARANVANGURI/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/CHARANVANGURI/Leetcode/tree/master/0217-contains-duplicate) |
 ## Math
 |  |
@@ -26,6 +28,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/CHARANVANGURI/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/CHARANVANGURI/Leetcode/tree/master/0283-move-zeroes) |
 ## String
 |  |
