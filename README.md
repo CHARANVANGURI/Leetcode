@@ -9,6 +9,7 @@
 | [0283-move-zeroes](https://github.com/CHARANVANGURI/Leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/CHARANVANGURI/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/CHARANVANGURI/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/CHARANVANGURI/Leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/CHARANVANGURI/Leetcode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Hash Table
 |  |
