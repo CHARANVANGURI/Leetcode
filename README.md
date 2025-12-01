@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/CHARANVANGURI/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/CHARANVANGURI/Leetcode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/CHARANVANGURI/Leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/CHARANVANGURI/Leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/CHARANVANGURI/Leetcode/tree/master/0485-max-consecutive-ones) |
@@ -43,6 +44,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/CHARANVANGURI/Leetcode/tree/master/0136-single-number) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/CHARANVANGURI/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/CHARANVANGURI/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Counting
