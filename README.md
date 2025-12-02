@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/CHARANVANGURI/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/CHARANVANGURI/Leetcode/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/CHARANVANGURI/Leetcode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/CHARANVANGURI/Leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/CHARANVANGURI/Leetcode/tree/master/0283-move-zeroes) |
@@ -69,4 +70,8 @@
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/CHARANVANGURI/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/CHARANVANGURI/Leetcode/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
