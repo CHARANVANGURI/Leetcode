@@ -10,6 +10,7 @@
 | [0217-contains-duplicate](https://github.com/CHARANVANGURI/Leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/CHARANVANGURI/Leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/CHARANVANGURI/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/CHARANVANGURI/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/CHARANVANGURI/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/CHARANVANGURI/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/CHARANVANGURI/Leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -18,6 +19,7 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/CHARANVANGURI/Leetcode/tree/master/0217-contains-duplicate) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/CHARANVANGURI/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/CHARANVANGURI/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/CHARANVANGURI/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/CHARANVANGURI/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
