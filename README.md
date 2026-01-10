@@ -38,9 +38,11 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/CHARANVANGURI/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/CHARANVANGURI/Leetcode/tree/master/0283-move-zeroes) |
+| [0392-is-subsequence](https://github.com/CHARANVANGURI/Leetcode/tree/master/0392-is-subsequence) |
 ## String
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/CHARANVANGURI/Leetcode/tree/master/0392-is-subsequence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/CHARANVANGURI/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/CHARANVANGURI/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/CHARANVANGURI/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
@@ -76,4 +78,5 @@
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/CHARANVANGURI/Leetcode/tree/master/0118-pascals-triangle) |
+| [0392-is-subsequence](https://github.com/CHARANVANGURI/Leetcode/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
