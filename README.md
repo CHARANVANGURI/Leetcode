@@ -37,11 +37,13 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/CHARANVANGURI/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/CHARANVANGURI/Leetcode/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/CHARANVANGURI/Leetcode/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/CHARANVANGURI/Leetcode/tree/master/0392-is-subsequence) |
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/CHARANVANGURI/Leetcode/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/CHARANVANGURI/Leetcode/tree/master/0392-is-subsequence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/CHARANVANGURI/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/CHARANVANGURI/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
